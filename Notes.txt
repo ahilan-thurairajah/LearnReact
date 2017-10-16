@@ -1,0 +1,11 @@
+Required additional NPM modules
+WebPack:	http://webpack.github.io/
+Babel:		https://babeljs.io/
+
+Referals:
+To learn web components: https://www.webcomponents.org/
+
+To install webpack globally, run:
+npm install -g webpack webpack-dev-server
+
+ 
